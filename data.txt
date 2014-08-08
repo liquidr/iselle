@@ -1,0 +1,13 @@
+                TIME    LAT      LON   WDIR    WSPD     GST    WVHT    DPD    APD    MWD    PRES   ATMP
+             ISO8601                  deg T      kt      kt       m    sec    sec  deg T    mbar      C
+                TIME    LAT      LON   WDIR    WSPD     GST    WVHT    DPD    APD    MWD    PRES   ATMP
+             ISO8601                  deg T      kt      kt       m    sec    sec  deg T    mbar      C
+                TIME    LAT      LON   WDIR    WSPD     GST    WVHT    DPD    APD    MWD    PRES   ATMP
+             ISO8601                  deg T      kt      kt       m    sec    sec  deg T    mbar      C
+ "2014-08-08T00:00Z"  20.06  -154.77                            3.4   10.7    7.3     97               
+ "2014-08-08T00:30Z"  20.06  -154.76                            3.6    9.1    6.9     97               
+ "2014-08-08T00:00Z"  20.06  -154.77     47    14.4    22.4                               1012.3   24.0
+ "2014-08-08T00:10Z"  20.06  -154.76     55    18.7    26.3                               1009.6   23.7
+ "2014-08-08T00:20Z"  20.06  -154.76     43    18.6    30.2                               1007.8   23.6
+ "2014-08-08T00:30Z"  20.06  -154.76     48    20.0    28.5                               1007.3   23.5
+ "2014-08-08T00:40Z"  20.06  -154.76     38    18.2    31.3                               1009.1   23.7
